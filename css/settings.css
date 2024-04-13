@@ -294,7 +294,7 @@ website:   	http://www.themepunch.com
 	height: 0;
 	border-left: 40px solid transparent;
 	border-right: 0px solid transparent;
-	border-top: 40px solid #00A8FF;
+	border-top: 40px solid #F58C0B;
 	position: absolute;left:-40px;top:0px;
 }
 
@@ -303,7 +303,7 @@ website:   	http://www.themepunch.com
 	height: 0;
 	border-left: 0px solid transparent;
 	border-right: 40px solid transparent;
-	border-bottom: 40px solid #00A8FF;
+	border-bottom: 40px solid #F58C0B;
 	position: absolute;right:0px;top:0px;
 }
 
@@ -312,7 +312,7 @@ website:   	http://www.themepunch.com
 	height: 0;
 	border-left: 40px solid transparent;
 	border-right: 0px solid transparent;
-	border-bottom: 40px solid #00A8FF;
+	border-bottom: 40px solid  #F58C0B;
 	position: absolute;left:-40px;top:0px;
 }
 
@@ -321,7 +321,7 @@ website:   	http://www.themepunch.com
 	height: 0;
 	border-left: 0px solid transparent;
 	border-right: 40px solid transparent;
-	border-top: 40px solid #00A8FF;
+	border-top: 40px solid  #F58C0B;
 	position: absolute;right:0px;top:0px;
 }
 									
@@ -857,13 +857,13 @@ img.tp-slider-alternative-image	{
 }
 
 .rev-sbutton-blue	{	
-	background-color: #3B5998
+	background-color: black
 }
 .rev-sbutton-lightblue	{	
-	background-color: #00A0D1;
+	background-color: #F58C0B;
 }
 .rev-sbutton-red	{	
-	background-color: #DD4B39;
+	background-color: blanchedalmond
 }
 
 
@@ -890,7 +890,7 @@ img.tp-slider-alternative-image	{
 .tp-caption img {
 	background: transparent;
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=blanchedalmond,endColorstr=blanchedalmond);
 	zoom: 1;
 }
 

@@ -1045,7 +1045,7 @@ h6 a:hover{
   position: relative;
   overflow: hidden;
   margin-left: 8px;
-  margin-top: -56px;
+  margin-top: 200px;
 }
 .video-gallery img {
   transform: scale(1);
@@ -1079,7 +1079,7 @@ h6 a:hover{
 }
 
 .video-gallery:hover .overlay-gallery {
-  background-color: rgba(78, 205, 102, 0.7);
+  background-color: rgba(245, 140, 11, 0.5);
 }
 .video-gallery:hover img {
   transform: scale(1.1);
